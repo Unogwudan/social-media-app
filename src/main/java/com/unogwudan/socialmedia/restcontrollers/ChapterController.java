@@ -1,4 +1,4 @@
-package com.unogwudan.socialmedia.controllers;
+package com.unogwudan.socialmedia.restcontrollers;
 
 import com.unogwudan.socialmedia.models.Chapter;
 import com.unogwudan.socialmedia.services.dao.ChapterService;

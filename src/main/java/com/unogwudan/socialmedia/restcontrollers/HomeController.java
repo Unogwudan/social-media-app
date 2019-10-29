@@ -1,4 +1,4 @@
-package com.unogwudan.socialmedia.controllers;
+package com.unogwudan.socialmedia.restcontrollers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
